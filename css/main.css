@@ -1,0 +1,65 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+   font-family: 'Titillium Web', sans-serif;
+   color: white;
+   background-color: #091442;
+}
+
+#img1{
+   width: 100%;
+}
+
+#img2{
+   width: 100%;
+}
+
+#equipo1{
+   width: 100%;
+}
+
+#equipo2{
+   width: 100%;
+}
+
+#equipo3{
+   width: 100%;
+}
+
+#testimonial{
+   background: #3562A6;
+   padding: 40px 0 40px 0;
+   text-align: center;
+   margin-top: 50px;
+}
+
+header{
+   margin-top: 80px;
+   background-color: #091442;
+}
+
+footer{
+   background: url();
+}
+
+.app2{
+   color: white;
+}
+
+#info-two{
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+#info-one{
+   padding-bottom: 30px;
+}
+
+#contact{
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
